@@ -1,0 +1,11 @@
+#This file defines all the categories you are using
+
+meet-the-team:
+  name: Meet the team
+  description: Know the people behind Bad Labs!
+apod:
+  name: Apod
+  description: Astronomy Picture of the Day mobile app.
+whats-next:
+  name: What's next?
+  description: Plans and ideas of what's coming next!

@@ -1,0 +1,10 @@
+---
+layout: category
+category: apod
+title: Apod
+---
+
+
+{% for post in site.categories.apod %}
+  {% include article-card.html %}
+{% endfor %}
